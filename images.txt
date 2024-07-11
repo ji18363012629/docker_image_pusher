@@ -1,2 +1,3 @@
-mrbradley2/clinsv:v1.0.0
-mrbradley2/clinsv:v1.1-dev
+alpine
+kasmweb/nginx:1.25.3
+python:alpine3.19
